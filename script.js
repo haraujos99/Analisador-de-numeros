@@ -7,7 +7,7 @@ var menorNum = 100;
 var soma = 0
 
 function adicionar(){    
-    //Testa se é um númeor válido(true) e se está na lista(false)
+    //Testa se é um número válido(true) e se está na lista(false)
     if(eNum(num.value) && !naLista(num.value, valores)){
     
 
